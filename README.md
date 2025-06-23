@@ -6,6 +6,15 @@ This project focuses on cleaning and preprocessing the Titanic dataset to make i
 - **Source:** `task1_Titanic-Dataset.csv` (standard Titanic dataset)
 - **Features Used:** Pclass, Age, SibSp, Parch, Fare, Sex, Embarked, Survived
 
+  ## 📁 Files Included
+
+| File Name                | Description                                    |
+|--------------------------|------------------------------------------------|
+| `task1_Titanic-Dataset.csv` | Original raw Titanic dataset                   |
+| `cleaned_titanic.csv`       | Cleaned and preprocessed dataset (output file) |
+| `Task1_Intern.ipynb`        | Jupyter notebook with full code and output     |
+| `task1_intern.py`           | Python script with only the code               |
+
 ## Cleaning & Preprocessing Steps
 
 1. **Initial Inspection**  
